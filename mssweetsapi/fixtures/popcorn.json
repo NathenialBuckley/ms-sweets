@@ -1,0 +1,29 @@
+[
+    {
+        "model": "mssweetsapi.popcorn",
+        "pk": 1,
+        "fields": {
+            "name": "Banana Pudding",
+            "price": 25,
+            "image": "https://images.food52.com/L-g-oTjnibFQGzjwjEvj3HoInJ8=/660x440/filters:format(webp)/396860e0-412d-4dbd-840c-3e128f876c87--2013-0816_pop-popcorn-003.jpg"
+        }
+    },
+    {
+        "model": "mssweetsapi.popcorn",
+        "pk": 2,
+        "fields": {
+            "name": "Strawberry Cheesecake",
+            "price": 25,
+            "image": "https://images.food52.com/L-g-oTjnibFQGzjwjEvj3HoInJ8=/660x440/filters:format(webp)/396860e0-412d-4dbd-840c-3e128f876c87--2013-0816_pop-popcorn-003.jpg"
+        }
+    },
+    {
+        "model": "mssweetsapi.popcorn",
+        "pk": 3,
+        "fields": {
+            "name": "Hennesey",
+            "price": 25,
+            "image": "https://images.food52.com/L-g-oTjnibFQGzjwjEvj3HoInJ8=/660x440/filters:format(webp)/396860e0-412d-4dbd-840c-3e128f876c87--2013-0816_pop-popcorn-003.jpg"
+        }
+    }
+]

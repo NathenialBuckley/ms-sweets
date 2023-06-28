@@ -1,0 +1,19 @@
+[
+    {
+        "stmt": "SELECT * FROM mssweetsapi_popcorn;",
+        "header": [
+            "id",
+            "name",
+            "price",
+            "image"
+        ],
+        "rows": [
+            [
+                "1",
+                "Hennesey",
+                "25",
+                "https://images.food52.com/L-g-oTjnibFQGzjwjEvj3HoInJ8=/660x440/filters:format(webp)/396860e0-412d-4dbd-840c-3e128f876c87--2013-0816_pop-popcorn-003.jpg"
+            ]
+        ]
+    }
+]

@@ -8,5 +8,8 @@
         "--load-plugins=pylint_django",
         "--django-settings-module=mssweets.settings",
     ],
-    "python.formatting.provider": "none"
+    "python.formatting.provider": "none",
+    "cSpell.words": [
+        "mssweetsapi"
+    ]
 }
